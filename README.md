@@ -1,6 +1,6 @@
 ![Header](https://github.com/AntonKiylo/AntonKiylo/blob/master/assets/fix-and-debug-html-css-javascript-reactjs-code.jpg)
 
-## I'm Frontend Developer
+## I'm a Frontend Developer
 
 ### Current Stack
 ![HTML](https://img.shields.io/badge/-html-000?style=for-the-badge&logo=html5)
