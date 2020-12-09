@@ -17,3 +17,4 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anton-kiylo/)
 [![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/anton_kiilo/)
 [![Facebook](https://img.shields.io/badge/-facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/anton.kiylo/)
+[![Twitter](https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Anton_Kiylo)
